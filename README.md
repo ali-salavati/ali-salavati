@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ali-salavati
-- 👀 I’m interested in Java, PHP & Laravel
+- 👀 I’m interested in Java, kotlin, PHP & Laravel
 - 🌱 I’m currently learning Livewire
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
